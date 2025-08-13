@@ -25,4 +25,6 @@ Geographer
 1. La Union
 2. CEF34
 3. Jose Pardo
+4. Trilce
+5. Buen Pastor
 
