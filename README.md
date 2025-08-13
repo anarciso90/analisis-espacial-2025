@@ -15,3 +15,11 @@ Geographer
 1. Orgullo y Prejuicio
 2. Oppenheimer
 3. Harry Potter
+
+## Actores
+1. Liam Neeson
+2. Pedro Pascal
+3. Denzel Washington
+
+
+
