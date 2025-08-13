@@ -21,5 +21,8 @@ Geographer
 2. Pedro Pascal
 3. Denzel Washington
 
-
+## Colegios
+1. La Union
+2. CEF34
+3. Jose Pardo
 
