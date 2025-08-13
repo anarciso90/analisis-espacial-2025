@@ -6,3 +6,8 @@ Geographer
 2. B
 3. C
 
+## Facultades
+1. Economía
+2. Sociología
+3. Psicología
+   
