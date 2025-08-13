@@ -11,3 +11,9 @@ Geographer
 2. Sociología
 3. Psicología
    
+## Actores
+1. Liam Neeson
+2. Pedro Pascal
+3. Denzel Washington
+
+
